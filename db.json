@@ -1,0 +1,28 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "item": "bread"
+    },
+    {
+      "id": 2,
+      "item": "grapes"
+    },
+    {
+      "item": "rice",
+      "id": 3
+    },
+    {
+      "item": "orange",
+      "id": 4
+    },
+    {
+      "item": "sushi",
+      "id": 5
+    },
+    {
+      "item": "dim sum",
+      "id": 6
+    }
+  ]
+}
