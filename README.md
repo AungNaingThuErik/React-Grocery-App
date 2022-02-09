@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+## Call Web API with the useEffect Hook in React using JSON server as a Local API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Tutorial [Link](https://www.digitalocean.com/community/tutorials/how-to-call-web-apis-with-the-useeffect-hook-in-react).
+
+## Install json-server
+
+### `npm install --save-dev json-server`
 
 ## Available Scripts
 
